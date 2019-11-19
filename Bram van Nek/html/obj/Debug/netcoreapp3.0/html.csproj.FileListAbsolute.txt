@@ -1,0 +1,11 @@
+C:\Users\bramv\Downloads\school\html\bin\Debug\netcoreapp3.0\html.exe
+C:\Users\bramv\Downloads\school\html\bin\Debug\netcoreapp3.0\html.deps.json
+C:\Users\bramv\Downloads\school\html\bin\Debug\netcoreapp3.0\html.runtimeconfig.json
+C:\Users\bramv\Downloads\school\html\bin\Debug\netcoreapp3.0\html.runtimeconfig.dev.json
+C:\Users\bramv\Downloads\school\html\bin\Debug\netcoreapp3.0\html.dll
+C:\Users\bramv\Downloads\school\html\bin\Debug\netcoreapp3.0\html.pdb
+C:\Users\bramv\Downloads\school\html\obj\Debug\netcoreapp3.0\html.csprojAssemblyReference.cache
+C:\Users\bramv\Downloads\school\html\obj\Debug\netcoreapp3.0\html.AssemblyInfoInputs.cache
+C:\Users\bramv\Downloads\school\html\obj\Debug\netcoreapp3.0\html.AssemblyInfo.cs
+C:\Users\bramv\Downloads\school\html\obj\Debug\netcoreapp3.0\html.dll
+C:\Users\bramv\Downloads\school\html\obj\Debug\netcoreapp3.0\html.pdb
