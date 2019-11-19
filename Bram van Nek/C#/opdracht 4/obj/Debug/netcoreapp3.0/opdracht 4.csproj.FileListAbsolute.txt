@@ -1,0 +1,11 @@
+C:\Users\bramv\OneDrive\Documenten\GitHub\school\Git\BramvanNek\C#\opdracht 4\bin\Debug\netcoreapp3.0\opdracht 4.exe
+C:\Users\bramv\OneDrive\Documenten\GitHub\school\Git\BramvanNek\C#\opdracht 4\bin\Debug\netcoreapp3.0\opdracht 4.deps.json
+C:\Users\bramv\OneDrive\Documenten\GitHub\school\Git\BramvanNek\C#\opdracht 4\bin\Debug\netcoreapp3.0\opdracht 4.runtimeconfig.json
+C:\Users\bramv\OneDrive\Documenten\GitHub\school\Git\BramvanNek\C#\opdracht 4\bin\Debug\netcoreapp3.0\opdracht 4.runtimeconfig.dev.json
+C:\Users\bramv\OneDrive\Documenten\GitHub\school\Git\BramvanNek\C#\opdracht 4\bin\Debug\netcoreapp3.0\opdracht 4.dll
+C:\Users\bramv\OneDrive\Documenten\GitHub\school\Git\BramvanNek\C#\opdracht 4\bin\Debug\netcoreapp3.0\opdracht 4.pdb
+C:\Users\bramv\OneDrive\Documenten\GitHub\school\Git\BramvanNek\C#\opdracht 4\obj\Debug\netcoreapp3.0\opdracht 4.csprojAssemblyReference.cache
+C:\Users\bramv\OneDrive\Documenten\GitHub\school\Git\BramvanNek\C#\opdracht 4\obj\Debug\netcoreapp3.0\opdracht 4.AssemblyInfoInputs.cache
+C:\Users\bramv\OneDrive\Documenten\GitHub\school\Git\BramvanNek\C#\opdracht 4\obj\Debug\netcoreapp3.0\opdracht 4.AssemblyInfo.cs
+C:\Users\bramv\OneDrive\Documenten\GitHub\school\Git\BramvanNek\C#\opdracht 4\obj\Debug\netcoreapp3.0\opdracht 4.dll
+C:\Users\bramv\OneDrive\Documenten\GitHub\school\Git\BramvanNek\C#\opdracht 4\obj\Debug\netcoreapp3.0\opdracht 4.pdb
