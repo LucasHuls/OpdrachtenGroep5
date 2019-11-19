@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+        function myFunction() {
+            var para = document.createElement("P");
+            para.innerText = "Okay.";
+            document.body.appendChild(para);
+                }
+    </script>
+    <title>CYOAS</title>
+    <link href="styles.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400&display=swap" rel="stylesheet">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div id="Y"><a href="START.html">Restart</a></div>
+<h1>CYOAS</h1>
+
+<div id="box">
+</div>
+
+<div id="Options">
+    <h6 onclick="this.innerHTML = 'A voice tells you to get up and try again.'">Try to remember?</h6>
+    <h6 onclick="this.innerHTML = 'Your eyes are closed.'">Look around</h6>
+    <h6 onclick="myFunction()">Sleep</a></h6>
+</div>
+
+<div id="Choices">
+</div>
+<div id="ColdMeter">
+    <progress value="10" max="100"></progress><br>
+    cold meter
+</div>
+</div>
+</body>
+</html>

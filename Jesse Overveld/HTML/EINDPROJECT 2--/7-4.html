@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CYOAS</title>
+    <link href="styles.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400&display=swap" rel="stylesheet">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div id="Y"><a href="START.html">Restart</a></div>
+<h1>CYOAS</h1>
+
+<div id="box">
+    A huge rock formation stands infront of you, you are unable to continue north.<br><br>
+    What will you do?
+</div>
+
+<div id="Options">
+    <h6 onclick="this.innerHTML = 'I wonder what this wall is.'">Try to remember?</h6>
+    <h6 onclick="this.innerHTML = 'The rocks seem sturdy and old.'">Look around</h6>
+    <h6> <a href="Okay.html">Sleep</a></h6>
+</div>
+
+<div id="Choices">
+    <ul>
+        <li><a onclick="this.innerHTML = 'You cannot head forward.'">North</a></li>
+        <li><a href="7-5.html">South</a></li>
+        <li><a onclick="this.innerHTML = 'The rocks do not budge at your attempt.'">Move the rocks</a></li>
+        <li><a href="freeze.html">East</a></li>
+    </ul>
+</div>
+<div id="ColdMeter">
+    <progress value="40" max="100"></progress><br>
+    cold meter
+</div>
+</div>
+</body>
+</html>

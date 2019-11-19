@@ -1,0 +1,143 @@
+body {
+    background-color: rgb(36, 22, 22);
+    background-image: url(vignette.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0;
+    transition: 2000ms opacity;
+}
+h1 {
+    color: white;
+    text-align: center;
+    padding: 40px;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 10px;
+    font-size: 80px;
+}
+
+#box {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding-top: 5%;
+    font-size: 35px;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+}
+
+li a:hover {
+    background-color: rgb(95, 55, 55);
+    color: rgb(182, 104, 104);
+}
+
+#Y {
+    font-family: 'Raleway', sans-serif;
+    font-size: 10px;
+    width: 50px;
+}
+
+#Y:hover {
+    background-color: white;
+}
+
+#Options {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-top: -15%;
+    margin-left: auto;
+    padding-left: 80%;
+    position: absolute;
+}
+
+#Options h6:hover {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    width: auto;
+    height: 0%;
+    cursor: pointer;
+}
+
+#Options h6 a {
+    color: white;
+    text-decoration: none;
+}
+
+#Options h6 a:hover {
+    color: black;
+}
+
+p {
+    font-family: 'raleway', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+#Choices a:hover {
+    cursor: pointer;
+}
+
+#ColdMeter progress {
+    position: absolute;
+    height: 10px;
+    width: 220px;
+    color: rgba(255, 255, 255, 0);
+    -webkit-appearance: none;
+    border: 1px solid white;
+    border-radius: 9px;
+    background-size: 100% 100%;
+    -webkit-appearance: none;
+}
+
+#ColdMeter {
+    color: white;
+    margin-top: -590px;
+    font-family: 'raleway', sans-serif;
+    -webkit-appearance: none;
+    position: absolute;
+}
+
+progress::-webkit-progress-bar {
+    background-color: rgba(70, 96, 102, 0);
+}
+progress::-webkit-progress-value {
+    background-color: rgb(145, 238, 255);
+}
+
+#book {
+    border: 1px solid orange;
+    background-color: rgb(77, 62, 35);
+    width: 500px;
+    text-align: center;
+    margin-left: 500px;
+}
+
+#book p {
+    font-size: 10px;
+    text-align: center;
+    color: grey;
+}
+
+#book button {
+    background-color: rgb(95, 55, 55);
+    color: rgb(182, 104, 104);
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+}
