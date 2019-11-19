@@ -1,0 +1,22 @@
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Test\bin\Debug\netcoreapp3.0\Test.exe
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Test\bin\Debug\netcoreapp3.0\Test.deps.json
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Test\bin\Debug\netcoreapp3.0\Test.runtimeconfig.json
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Test\bin\Debug\netcoreapp3.0\Test.runtimeconfig.dev.json
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Test\bin\Debug\netcoreapp3.0\Test.dll
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Test\bin\Debug\netcoreapp3.0\Test.pdb
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Test\obj\Debug\netcoreapp3.0\Test.csprojAssemblyReference.cache
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Test\obj\Debug\netcoreapp3.0\Test.AssemblyInfoInputs.cache
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Test\obj\Debug\netcoreapp3.0\Test.AssemblyInfo.cs
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Test\obj\Debug\netcoreapp3.0\Test.dll
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Test\obj\Debug\netcoreapp3.0\Test.pdb
+C:\Users\ljhul\Documents\LucasHuls\LucasHuls\C#\Opdracht 1\bin\Debug\netcoreapp3.0\Test.exe
+C:\Users\ljhul\Documents\LucasHuls\LucasHuls\C#\Opdracht 1\bin\Debug\netcoreapp3.0\Test.deps.json
+C:\Users\ljhul\Documents\LucasHuls\LucasHuls\C#\Opdracht 1\bin\Debug\netcoreapp3.0\Test.runtimeconfig.json
+C:\Users\ljhul\Documents\LucasHuls\LucasHuls\C#\Opdracht 1\bin\Debug\netcoreapp3.0\Test.runtimeconfig.dev.json
+C:\Users\ljhul\Documents\LucasHuls\LucasHuls\C#\Opdracht 1\bin\Debug\netcoreapp3.0\Test.dll
+C:\Users\ljhul\Documents\LucasHuls\LucasHuls\C#\Opdracht 1\bin\Debug\netcoreapp3.0\Test.pdb
+C:\Users\ljhul\Documents\LucasHuls\LucasHuls\C#\Opdracht 1\obj\Debug\netcoreapp3.0\Test.csprojAssemblyReference.cache
+C:\Users\ljhul\Documents\LucasHuls\LucasHuls\C#\Opdracht 1\obj\Debug\netcoreapp3.0\Test.AssemblyInfoInputs.cache
+C:\Users\ljhul\Documents\LucasHuls\LucasHuls\C#\Opdracht 1\obj\Debug\netcoreapp3.0\Test.AssemblyInfo.cs
+C:\Users\ljhul\Documents\LucasHuls\LucasHuls\C#\Opdracht 1\obj\Debug\netcoreapp3.0\Test.dll
+C:\Users\ljhul\Documents\LucasHuls\LucasHuls\C#\Opdracht 1\obj\Debug\netcoreapp3.0\Test.pdb

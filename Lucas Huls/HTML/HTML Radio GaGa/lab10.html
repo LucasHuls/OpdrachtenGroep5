@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+		<title>Lab10</title>
+	</head>
+		<body>
+ 			<main>
+				<form name="formulier "
+							action = "mailto: postmaster@radiogaga.com "
+							method = "post ">
+					<fieldset>
+						<div><legend>Inschrijfformulier</legend></div>
+							<select required name="Cursus " id="cursus ">
+								<option value="0 ">Kies een cursus</option>
+								<option value="Bankzaken ">Bankzaken</option>
+								<option value="Software ">Software</option>
+								<option value="Hardware ">Hardware</option>
+							</select> <br>
+							<select required name="Lokatie " id="lokatie ">
+								<option value="0 ">Kies een Lokatie</option>
+								<option value="Bankzaken ">Enschede</option>
+								<option value="Software ">Hengelo</option>
+								<option value="Hardware ">Almelo</option>
+							</select> <br>
+							<label for="date ">Begindatum: </label> <br>
+							<input type="date" name="bday"> <br>
+							<label for="date ">Selecteer Opleiding: </label>
+							<input type="radio" name="bol" value="bol">BOL
+							<input type="radio" name="bol" value="bll">BBL <br>
+							<input required type="text " id="voornaam "
+								name="vnaam " placeholder="Voornaam " /><br>
+							<input required type="text " id="achternaam "
+								name="anaam " placeholder="Achternaam " /><br>
+							<input required type="text " id="adress "
+								name="Adres " placeholder="Adres " /><br>
+							<input required type="email" name="email" placeholder="E-Mail">
+							<input required type="text " id="mobiel "
+								name="mobiel " placeholder="Mobiel " /><br>
+							<label for="Aschool ">Geef je voorkeur aan: </label> <br>
+							<label for="Aschool ">Avondschool:</label>
+							<input type="checkbox" name="Aschool" value="AS"> <br>
+							<label for="Wschool ">Weekendschool:</label>
+							<input type="checkbox" name="Wschool" value="WS"> <br>
+							<label for="Aschool ">Geen voorkeur</label>
+							<input type="checkbox" name="voorkeur" value="VK"> <br>
+							<label for="niveau ">Wat is je opleidingsniveau:</label> <br>
+							<input type="range" name="niveau" min="0" max="100">
+					</fieldset>
+						<input type="submit " id="verzend "
+							name="verzend " value="Verzend " />
+			</form>
+		</body>
+</html>
