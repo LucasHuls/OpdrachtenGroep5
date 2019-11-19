@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CYOAS</title>
+    <link href="styles.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400&display=swap" rel="stylesheet">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div id="Y"><a href="START.html">Restart</a></div>
+<h1>CYOAS</h1>
+
+<div id="box">
+    To your left, there is a table and chair pushed against the wall.<br>
+    To your right, there is a bed.<br>
+    Behind you, there is a darkened wall.<br>
+</div>
+
+<div id="Options">
+    <h6 onclick="this.innerHTML = 'I do not know where I am.'">Try to remember?</h6>
+    <h6 onclick="this.innerHTML = 'The cabin insides look cozy, although a bit unsettling.'">Look around</h6>
+    <h6> <a href="Okay.html">Sleep</a></h6>
+</div>
+
+<div id="Choices">
+    <ul>
+        <li><a onclick="this.innerHTML = 'A small book rests upon the table. You open it, revealing a small black dot in the middle of page one.'">Go to the table</a></li>
+        <li><a onclick="this.innerHTML = 'You are already asleep.'">Sleep on the bed</a></li>
+        <li><a onclick="this.innerHTML = 'There is a large /S/ sigil painted on the wall.'">Shine the lantern on the darkened wall</a></li>
+        <li><a href="START.html">Go back</a></li>
+    </ul>
+</div>
+<div id="ColdMeter" style="margin-top: -610px;">
+    <progress value="5" max="100"></progress><br>
+    cold meter
+</div>
+</div>
+</body>
+</html>

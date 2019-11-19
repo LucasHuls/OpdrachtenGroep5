@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(56, 34, 34);
+    background-image: url(vignette.png);
+    opacity: 0;
+    transition: 2000ms opacity;
+}
+h1 {
+    color: white;
+    text-align: center;
+    padding: 40px;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 10px;
+    font-size: 50px;
+}
+
+#box {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding-top: 200px;
+    font-size: 35px;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+}
+
+li a:hover {
+    background-color: rgb(95, 55, 55);
+    color: rgb(182, 104, 104);
+}
+
+#Y {
+    font-family: 'Raleway', sans-serif;
+    font-size: 10px;
+    width: 50px;
+}
+
+#Y:hover {
+    background-color: white;
+}

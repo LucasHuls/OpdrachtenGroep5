@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CYOAS</title>
+    <link href="styles.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400&display=swap" rel="stylesheet">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div id="Y"><a href="START.html">Restart</a></div>
+<h1>CYOAS</h1>
+
+<div id="box">
+    You walk ontop of the lake, looking for anything of importance. A small journal is left on the ice.<br><br><br><br>
+    How odd.
+</div>
+
+<div id="Options">
+    <h6 onclick="this.innerHTML = 'Should I read this?'">Try to remember?</h6>
+    <h6 onclick="this.innerHTML = 'The icey lake stretches out far beyond you, you hope the ice wont break'">Look around</h6>
+    <h6> <a href="Okay.html">Sleep</a></h6>
+</div>
+
+<div id="book">
+    <p style="text-align: left;">
+The occupation by France of the lower Mississippi gave a strong impulse to
+the exploration of the West, by supplying a base for discovery, stimulating
+enterprise by the longing to find gold mines, open trade with New Mexico,
+and get a fast hold on the countries beyond the Mississippi in anticipation
+of Spain; and to these motives was soon added the hope of finding an
+overland way to the Pacific. It was the Canadians, with their indomitable
+spirit of adventure, who led the way in the path of discovery.<br><br><br>
+
+As a bold and hardy pioneer of the wilderness, the Frenchman in America has
+rarely found his match. His civic virtues withered under the despotism of
+Versailles, and his mind and conscience were kept in leading-strings by an
+absolute Church; but the forest and the prairie offered him an unbridled
+liberty, which, lawless as it was, gave scope to his energies, till these
+savage wastes became the field of his most noteworthy achievements.<br><br><br>
+
+Canada was divided between two opposing influences. On the one side were
+the monarchy and the hierarchy, with their principles of order,
+subordination, and obedience; substantially at one in purpose, since both
+wished to keep the colony within manageable bounds, domesticate it, and
+tame it to soberness, regularity, and obedience. On the other side was the
+spirit of liberty, or license, which was in the very air of this wilderness
+continent, reinforced in the chiefs of the colony by a spirit of adventure
+inherited from the Middle Ages, and by a spirit of trade born of present
+opportunities; for every official in Canada hoped to make a profit, if not
+a fortune, out of beaverskins. Kindred impulses, in ruder forms, possessed
+the humbler colonists, drove them into the forest, and made them hardy
+woodsmen and skilful bushfighters, though turbulent and lawless members of
+civilized society.<br><br><br>
+
+Time, the decline of the fur-trade, and the influence of the Canadian
+Church gradually diminished this erratic spirit, and at the same time
+impaired the qualities that were associated with it. The Canadian became a
+more stable colonist and a steadier farmer; but for forest journeyings and
+forest warfare he was scarcely his former self. At the middle of the
+eighteenth century we find complaints that the race of _voyageurs_ is
+growing scarce. The taming process was most apparent in the central and
+lower parts of the colony, such as the Côte de Beaupré and the opposite
+shore of the St. Lawrence, where the hands of the government and of the
+Church were strong; while at the head of the colony,--that is, about
+Montreal and its neighborhood,--which touched the primeval wilderness, an
+uncontrollable spirit of adventure still held its own. Here, at the
+beginning of the century, this spirit was as strong as it had ever been,
+and achieved a series of explorations and discoveries which revealed the
+plains of the Far West long before an Anglo-Saxon foot had pressed their
+soil.<br><br><br>
+
+The expedition of one Le Sueur to what is now the State of Minnesota may be
+taken as the starting-point of these enterprises. Le Sueur had visited the
+country of the Sioux as early as 1683. He returned thither in 1689 with the
+famous _voyageur_ Nicolas Perrot. [Footnote: _Journal historique de
+l'Etablissement des Français à la Louisiane_, 43.] Four years later,
+Count Frontenac sent him to the Sioux country again. The declared purpose
+of the mission was to keep those fierce tribes at peace with their
+neighbors; but the Governor's enemies declared that a contraband trade in
+beaver was the true object, and that Frontenac's secretary was to have half
+the profits. [Footnote: _Champigny au Ministre, 4 Nov._ 1693.]<br><br><br> 
+Le  Sueur returned after two years, bringing to Montreal a Sioux chief and his
+squaw,--the first of the tribe ever seen there. He then went to France, and
+represented to the court that he had built a fort at Lake Pepin, on the
+upper Mississippi; that he was the only white man who knew the languages of
+that region; and that if the French did not speedily seize upon it, the
+English, who were already trading upon the Ohio, would be sure to do so.
+Thereupon he asked for the command of the upper Mississippi, with all its
+tributary waters, together with a monopoly of its fur-trade for ten years,
+and permission to work its mines, promising that if his petition were
+granted, he would secure the country to France without expense to the King.
+The commission was given him. He bought an outfit and sailed for Canada,
+but was captured by the English on the way. After the peace he returned to
+France and begged for a renewal of his commission. Leave was given him to
+work the copper and lead mines, but not to trade in beaver-skins. He now
+formed a company to aid him in his enterprise, on which a cry rose in
+Canada that under pretence of working mines he meant to trade in
+beaver,--which is very likely, since to bring lead and copper in bark
+canoes to Montreal from the Mississippi and Lake Superior would cost far
+more than the metal was worth. In consequence of this clamor his commission
+was revoked.
+    </p>
+</div>
+
+<div id="Choices">
+    <ul>
+        <li><a onclick="this.innerHTML = 'You read the book.'">Sit on the edge of the bust</a></li>
+        <button type="button" onclick="book()"><li><a onclick="this.innerHTML = 'You read the journal.'">Read the journal</a></li></button>
+        <li><a onclick="this.innerHTML = 'You find a /z/ shaped stick.'">Walk around the lake</a></li>
+        <li><a href="5-7.html">Head back, south</a></li>
+    </ul>
+</div>
+<div id="ColdMeter">
+    <progress value="65" max="100"></progress><br>
+    cold meter
+</div>
+</div>
+</body>
+</html>

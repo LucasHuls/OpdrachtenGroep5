@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CYOAS</title>
+    <link href="styles.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400&display=swap" rel="stylesheet">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div id="Y"><a href="START.html">Restart</a></div>
+<h1>CYOAS</h1>
+
+<div id="box">
+    You exit the cabin, you are surrounded by snow.<br>
+    The blizzard is obscuring your vision. Which direction will you go?
+</div>
+
+<div id="Options">
+    <h6 onclick="this.innerHTML = 'I should find my way home.'">Try to remember?</h6>
+    <h6 onclick="this.innerHTML = 'The blizzard prevents you from seeing anything far off, there are footsteps in the snow heading toward the west.'">Look around</h6>
+    <h6> <a href="Okay.html">Sleep</a></h6>
+</div>
+
+<div id="Choices">
+    <ul>
+        <li><a href="5-6.html">North</a></li>
+        <li><a href="START.html">Head back</a></li>
+        <li><a href="4-7.html">West</a></li>
+        <li><a href="6-7.html">East</a></li>
+    </ul>
+</div>
+<div id="ColdMeter">
+    <progress value="30" max="100"></progress><br>
+    cold meter
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CYOAS</title>
+    <link href="styles.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400&display=swap" rel="stylesheet">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div id="Y"><a href="START.html">Restart</a></div>
+<h1>CYOAS</h1>
+
+<div id="box">
+    You find yourself in a cabin.<br>
+    The room is lit by a single lantern.<br> Through the windows you can only see a blinding white, you appear to be caught in a blizzard.<br><br>
+    What do you do?
+</div>
+
+<div id="Options">
+    <h6 onclick="this.innerHTML = 'I do not know who I am.'">Think</h6>
+    <h6 onclick="this.innerHTML = 'The cabin seems dark and eerie.'">Look around</h6>
+    <h6> <a href="Okay.html">Sleep</a></h6>
+</div>
+
+<div id="Choices">
+    <ul>
+        <li><a href="5-7.html">Exit, head North</a></li>
+        <li><a href="wall.html">Inspect the cabin</a></li>
+        <li><a href="4-8.html">Exit, head West</a></li>
+        <li><a href="6-8.html">Exit, head East</a></li>
+    </ul>
+</div>
+<div id="ColdMeter" style="margin-top: -650px;">
+    <progress value="10" max="100"></progress><br>
+    cold meter
+</div>
+</div>
+</body>
+</html>
