@@ -1,0 +1,55 @@
+html{
+	background-color: purple;
+}
+#div1{
+	box-shadow: 4px 4px 10px rgba(0, 0, 0.5);
+	background-color: PaleGreen ;
+    width: 80%;
+	height: 80px;  
+	font-size: 20px;
+	margin: auto; 
+	margin-top: 3%;
+	margin-bottom: 3%;
+	text-align: center;
+}
+#div2{
+	box-shadow: 4px 4px 10px rgba(0, 0, 0.5);
+	background-color: PaleGreen ;
+    width: 80%;
+    height: 280px;
+    font-size: 15px;
+    margin-left: 5%;
+    margin-bottom: 3%;
+	text-align: center;
+	margin: auto;
+	background-image: url(http://icons.iconarchive.com/icons/yootheme/social-bookmark/256/social-google-box-icon.png);
+	background-position: top right;
+	background-repeat: no-repeat;
+}
+#div2:hover{
+	margin-left: 20%;
+	color: palegreen;
+	opacity: 0.9;
+}
+#div3{
+	box-shadow: 4px 4px 10px rgba(0, 0, 0.5);
+	background-color: LawnGreen;
+	width: 80%;
+	height: 190px;
+	margin-left: 3%;
+	text-align: center;
+	margin: auto;
+	background-image: url(https://image.flaticon.com/icons/svg/183/183320.svg);
+	background-position: top left;
+	background-repeat: no-repeat;
+	opacity: 0.9;
+}
+#div4{
+   box-shadow: 4px 4px 10px rgba(0, 0, 0.5);
+   background-color: LawnGreen;
+   width: 80%;
+   height: 100px;
+   margin-left: 0%;
+   text-align: center;
+   margin: auto;
+}  

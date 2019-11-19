@@ -1,0 +1,11 @@
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Opdracht 6\obj\Debug\netcoreapp3.0\Opdracht 6.csprojAssemblyReference.cache
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Opdracht 6\obj\Debug\netcoreapp3.0\Opdracht 6.AssemblyInfoInputs.cache
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Opdracht 6\obj\Debug\netcoreapp3.0\Opdracht 6.AssemblyInfo.cs
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Opdracht 6\bin\Debug\netcoreapp3.0\Opdracht 6.exe
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Opdracht 6\bin\Debug\netcoreapp3.0\Opdracht 6.deps.json
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Opdracht 6\bin\Debug\netcoreapp3.0\Opdracht 6.runtimeconfig.json
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Opdracht 6\bin\Debug\netcoreapp3.0\Opdracht 6.runtimeconfig.dev.json
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Opdracht 6\bin\Debug\netcoreapp3.0\Opdracht 6.dll
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Opdracht 6\bin\Debug\netcoreapp3.0\Opdracht 6.pdb
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Opdracht 6\obj\Debug\netcoreapp3.0\Opdracht 6.dll
+C:\Users\ljhul\OneDrive - ROC van Twente\School\Code\CSharp\Opdracht 6\obj\Debug\netcoreapp3.0\Opdracht 6.pdb

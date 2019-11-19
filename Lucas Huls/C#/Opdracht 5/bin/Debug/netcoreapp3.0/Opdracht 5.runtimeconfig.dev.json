@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ljhul\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ljhul\\.nuget\\packages"
+    ]
+  }
+}
