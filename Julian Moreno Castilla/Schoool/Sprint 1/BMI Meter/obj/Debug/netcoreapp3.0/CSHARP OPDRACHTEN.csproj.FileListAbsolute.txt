@@ -1,0 +1,11 @@
+C:\Users\Eigenaar\Desktop\School\CSHARP OPDRACHTEN\bin\Debug\netcoreapp3.0\CSHARP OPDRACHTEN.exe
+C:\Users\Eigenaar\Desktop\School\CSHARP OPDRACHTEN\bin\Debug\netcoreapp3.0\CSHARP OPDRACHTEN.deps.json
+C:\Users\Eigenaar\Desktop\School\CSHARP OPDRACHTEN\bin\Debug\netcoreapp3.0\CSHARP OPDRACHTEN.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\School\CSHARP OPDRACHTEN\bin\Debug\netcoreapp3.0\CSHARP OPDRACHTEN.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\School\CSHARP OPDRACHTEN\bin\Debug\netcoreapp3.0\CSHARP OPDRACHTEN.dll
+C:\Users\Eigenaar\Desktop\School\CSHARP OPDRACHTEN\bin\Debug\netcoreapp3.0\CSHARP OPDRACHTEN.pdb
+C:\Users\Eigenaar\Desktop\School\CSHARP OPDRACHTEN\obj\Debug\netcoreapp3.0\CSHARP OPDRACHTEN.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\School\CSHARP OPDRACHTEN\obj\Debug\netcoreapp3.0\CSHARP OPDRACHTEN.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\School\CSHARP OPDRACHTEN\obj\Debug\netcoreapp3.0\CSHARP OPDRACHTEN.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\School\CSHARP OPDRACHTEN\obj\Debug\netcoreapp3.0\CSHARP OPDRACHTEN.dll
+C:\Users\Eigenaar\Desktop\School\CSHARP OPDRACHTEN\obj\Debug\netcoreapp3.0\CSHARP OPDRACHTEN.pdb

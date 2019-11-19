@@ -1,0 +1,77 @@
+body {
+    width: 100%;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+    border: 1px solid;
+    overflow: inherit;
+    background-color:bisque;
+    text-align: center;
+    color: #000;
+    font-size: 25px;
+    font-style: normal;
+    float: left;  
+    font-family: Verdana;
+    text-decoration: none;
+   
+}
+
+
+ul {
+    list-style: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    height: 50px;
+    text-decoration: none;
+    
+}
+ 
+nav ul li a {
+    float: left;
+    width: 25%;
+    text-decoration: none;
+
+}
+
+p {
+    text-align: center;
+    position: center;
+    width: 100%;
+    margin-top: 1vw;
+    animation-name:rainbow;
+    animation-duration: 6s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+@keyframes rainbow {
+    0% {
+        color: red;
+        font-size: 40px;
+    }
+    20% {
+        color: orange;
+    }
+    40% {
+        color: yellow;
+    }
+    50% {
+        color: green;
+        font-size: 40px;
+    }
+    60% {
+        color: blue;
+    }
+    80% {
+        color: ivory;
+    }
+    100% {
+        color: violet;
+        font-size: 40px;
+    }
+    
+
+    

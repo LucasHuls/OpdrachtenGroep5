@@ -1,0 +1,38 @@
+<!-- Website Julian, Mike en Bram.-->
+
+</body>
+</html>
+  <meta http-equiv="Content-Type"
+  content="text/html";
+  charset=UTF-8">
+<html>
+    <head>
+    <body>
+        <p>Julian, Mike en Bram.</p>
+        
+    </body>
+</html>
+    
+</body>
+<p>Welkom op deze website.</p>
+</html>
+  <nav>
+        <ul>
+</head>   
+   <li><a href="eindopdracht.html">Home</a><li>
+   <li><a href="overons.html">Over ons</a></li>
+   <li><a href="eindproject.html">Het Eindproject</a></li>
+   <li><a href="contact.html">Contact</a></li>
+   <div id="logo"> </div>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-type"
+    content="text/html;
+    charset=UTF-8">
+    <link rel="stylesheet" href="eindopdracht.css">
+
+  
+
+    

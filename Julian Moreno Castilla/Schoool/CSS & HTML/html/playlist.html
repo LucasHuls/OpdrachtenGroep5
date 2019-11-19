@@ -1,0 +1,65 @@
+
+  <!DOCTYPE html>
+  <html>
+      <meta http-equiv="Content-type"
+      content="text/html;
+      charset=UTF-8">
+      <link rel="stylesheet" href="styles.css">
+<body>
+      <main>
+            <nav>
+                    <ul>
+                          <li><a href="webbouw opdrachten.html">Home</a></li>
+                          <li><a href="playlist.html">Playlist</a></li>
+                          <li><a href="formulier.html">Formulier</a></li>
+                          <li><a href="contact.html">Contact</a></li>
+                        </nav>
+            <div id="pager">
+                    <div id="vorige">
+                      <a href="webbouw opdrachten.html"> &lt;</a>
+                    </div>
+                    <div id="volgende">
+                    <a href="formulier.html"> &gt; </a> 
+                </div> 
+            
+    </div> 
+          <div id="albums">
+              <ul>
+                  <li>
+                      <a 
+                        onclick="document.getElementById('album-1').style.display='block';
+                        document.getElementById('album-2).style.display='none';
+                        document.getElementById(
+                        album-3').style.display='none';"><img src="album-1.jpg"></a>  
+                        <a 
+                        onclick="document.getElementById('album-2').style.display='block';
+                        document.getElementById('album-2).style.display='none';
+                        document.getElementById(
+                        'album-3').style.display='none';"><img src="album-2.jpg"></a> 
+                        <a 
+                        onclick="document.getElementById('album-3').style.display='block';
+                        document.getElementById('album-2).style.display='none';
+                        document.getElementById(
+                        'album-3').style.display='none';"><img src="album-3.jpg"></a> 
+                  </li>
+              </ul>
+          </div> <!---Einde albums--->
+          <div id="multimedia">
+              <div id="album-1" style='display: block'>
+                <video controls width="55%" preload poster="album-1.jpg">
+                    <source src="trailer.webm" type="video/webm">
+                    <source src="trailer.ogv" type="video/ogg">
+                    <source src="trailer.mp4" type="video/mp4">
+                </video>
+
+            </div> <!----Einde album-1--->
+          </div> <!---Einde multimedia--->
+        </body>
+        <footer>
+                <a href="top"><img src="twitter.png" alt="x"></a>
+                <a href="top"><img src="youtube.png" alt="x"></a>
+                <a href="top"><img src="facebook.png" alt="x"></a>
+                <p>Copyright &copy; 2020 <i>Ontworpen door: Julian Moreno Castilla.</i>
+              Alle rechten voorbehouden.</p>
+                </footer>
+      </main>

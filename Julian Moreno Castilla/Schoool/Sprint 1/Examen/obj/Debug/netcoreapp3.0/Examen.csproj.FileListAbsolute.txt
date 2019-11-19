@@ -1,0 +1,11 @@
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Examen\bin\Debug\netcoreapp3.0\Examen.exe
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Examen\bin\Debug\netcoreapp3.0\Examen.deps.json
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Examen\bin\Debug\netcoreapp3.0\Examen.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Examen\bin\Debug\netcoreapp3.0\Examen.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Examen\bin\Debug\netcoreapp3.0\Examen.dll
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Examen\bin\Debug\netcoreapp3.0\Examen.pdb
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Examen\obj\Debug\netcoreapp3.0\Examen.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Examen\obj\Debug\netcoreapp3.0\Examen.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Examen\obj\Debug\netcoreapp3.0\Examen.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Examen\obj\Debug\netcoreapp3.0\Examen.dll
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Examen\obj\Debug\netcoreapp3.0\Examen.pdb

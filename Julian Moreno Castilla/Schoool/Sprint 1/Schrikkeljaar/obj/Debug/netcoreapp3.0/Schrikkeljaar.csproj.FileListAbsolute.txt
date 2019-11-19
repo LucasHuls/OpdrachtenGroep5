@@ -1,0 +1,11 @@
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Schrikkeljaar\bin\Debug\netcoreapp3.0\Schrikkeljaar.exe
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Schrikkeljaar\bin\Debug\netcoreapp3.0\Schrikkeljaar.deps.json
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Schrikkeljaar\bin\Debug\netcoreapp3.0\Schrikkeljaar.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Schrikkeljaar\bin\Debug\netcoreapp3.0\Schrikkeljaar.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Schrikkeljaar\bin\Debug\netcoreapp3.0\Schrikkeljaar.dll
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Schrikkeljaar\bin\Debug\netcoreapp3.0\Schrikkeljaar.pdb
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Schrikkeljaar\obj\Debug\netcoreapp3.0\Schrikkeljaar.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Schrikkeljaar\obj\Debug\netcoreapp3.0\Schrikkeljaar.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Schrikkeljaar\obj\Debug\netcoreapp3.0\Schrikkeljaar.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Schrikkeljaar\obj\Debug\netcoreapp3.0\Schrikkeljaar.dll
+C:\Users\Eigenaar\Desktop\School\Sprint 1\Schrikkeljaar\obj\Debug\netcoreapp3.0\Schrikkeljaar.pdb

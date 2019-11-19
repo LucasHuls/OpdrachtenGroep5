@@ -1,0 +1,87 @@
+
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <body>
+      <nav>
+          <ul>
+                <li><a href="webbouw opdrachten.html">Home</a></li>
+                <li><a href="playlist.html">Playlist</a></li>
+                <li><a href="formulier.html">Formulier</a></li>
+                <li><a href="contact.html">Contact</a></li>
+              </nav>
+  </body>
+ <meta http-equiv="Content-type"
+  content="text/html;
+  charset=UTF-8">
+  <link rel="stylesheet" href="styles.css">
+  <title>RadioGaGa</title>
+  <main>
+      <div id="pager">
+          <div id="vorige">
+            <a href="playlist.html"> &lt;</a>
+          </div>
+          <div id="volgende">
+          <a href="contact.html"> &gt; </a> 
+      </div> 
+   <form name="formulier"
+        action="mailto: postmaster@radiogaga.com"
+        method="POST">
+<fieldset>
+    <legend>Bestel gratis kaarten</legend>
+    <input required type="text" id="naam"
+    name="naam" placeholder="Naam"><br>
+    <input required type="email" id="email"
+    name="email" placeholder="E-mail"><br>
+    <input required type="text" id="mobiel"
+    name="mobiel" placeholder="Mobiel"><br>
+    <input required type="text" placeholder="Woonplaats"
+    name="woonplaats" id="woonplaats" list="steden">
+    <datalist id="steden">
+      <option value="Amsterdam">
+      <option value="Utrecht">
+      <option value="Antwerpen">
+      <option value="Apeldoorn">
+      <option value="Brussel">
+      <option value="Rotterdam">
+      <option value="Enschede">
+      </datalist> <br> 
+      <select required naam="concerten" id="concerten">
+      <option value="0">Kies een concert</option>
+      <option value="Manu Chau">Manu Chau</option>
+      <option value="Evanescence">Evanescence</option>
+      <option value="Sade">Sade</option>
+      </select> <br>
+      <label for="datum">Geboortedatum:</label> <br>
+      <input required type="date" name="datum" id="datum"> <br>
+      <label for="geslacht">Geslacht: </label>
+      Man <input type="radio" name="geslacht" value="M">
+      Vrouw <input type="radio" name="geslacht" value="V">
+      <br>
+      <textarea placeholder="Tik je vraag of commentaar in...">
+      </textarea><br>
+      <label for="abonnementen">Gratis abonnementen:</label><br>
+      Nieuwsbrief:
+      <input type="checkbox" name="nieuwsbrief"
+        id="nieuwsbrief" value="nieuwsbrief"><br>
+        Concertagenda:
+        <input type="checkbox" name="agenda"
+          id="agenda" value="agenda"><br>
+          <label for="ranking">Album Ranking</label>
+          <input type="range" name="ranking" id="ranking" min="1" max="5">
+    <fieldset>
+      <input type="submit" id="verzend"
+      name="verzend" value="Verzend">
+    </fieldset>
+
+    </form>
+  </main>
+
+<footer>
+    <a href="top"><img src="twitter.png" alt="x"></a>
+    <a href="top"><img src="youtube.png" alt="x"></a>
+    <a href="top"><img src="facebook.png" alt="x"></a>
+    <p>Copyright &copy; 2020 <i>Ontworpen door: Julian Moreno Castilla.</i>
+  Alle rechten voorbehouden.</p>
+    </footer>
+</html>

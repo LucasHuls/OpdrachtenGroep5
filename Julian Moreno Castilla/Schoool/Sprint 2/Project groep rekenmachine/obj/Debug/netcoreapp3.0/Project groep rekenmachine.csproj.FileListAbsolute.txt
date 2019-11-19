@@ -1,0 +1,11 @@
+C:\Users\Eigenaar\Desktop\School\Sprint 2\Project groep rekenmachine\bin\Debug\netcoreapp3.0\Project groep rekenmachine.exe
+C:\Users\Eigenaar\Desktop\School\Sprint 2\Project groep rekenmachine\bin\Debug\netcoreapp3.0\Project groep rekenmachine.deps.json
+C:\Users\Eigenaar\Desktop\School\Sprint 2\Project groep rekenmachine\bin\Debug\netcoreapp3.0\Project groep rekenmachine.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\School\Sprint 2\Project groep rekenmachine\bin\Debug\netcoreapp3.0\Project groep rekenmachine.runtimeconfig.dev.json
+C:\Users\Eigenaar\Desktop\School\Sprint 2\Project groep rekenmachine\bin\Debug\netcoreapp3.0\Project groep rekenmachine.dll
+C:\Users\Eigenaar\Desktop\School\Sprint 2\Project groep rekenmachine\bin\Debug\netcoreapp3.0\Project groep rekenmachine.pdb
+C:\Users\Eigenaar\Desktop\School\Sprint 2\Project groep rekenmachine\obj\Debug\netcoreapp3.0\Project groep rekenmachine.csprojAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\School\Sprint 2\Project groep rekenmachine\obj\Debug\netcoreapp3.0\Project groep rekenmachine.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\School\Sprint 2\Project groep rekenmachine\obj\Debug\netcoreapp3.0\Project groep rekenmachine.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\School\Sprint 2\Project groep rekenmachine\obj\Debug\netcoreapp3.0\Project groep rekenmachine.dll
+C:\Users\Eigenaar\Desktop\School\Sprint 2\Project groep rekenmachine\obj\Debug\netcoreapp3.0\Project groep rekenmachine.pdb
